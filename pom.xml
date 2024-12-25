@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>guru.springframework</groupId>
-    <artifactId>spring-6-webapp</artifactId>
+    <artifactId>spring6webapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-6-webapp</name>
+    <name>spring6webapp</name>
     <description>Spring 6 Web App</description>
 
     <properties>
